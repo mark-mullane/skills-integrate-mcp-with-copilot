@@ -58,7 +58,7 @@ activities = {
         "participants": ["liam@mergington.edu", "noah@mergington.edu"]
     },
     "Basketball Team": {
-        "description": "Practice and play basketball with your team",
+        "description": "Practice and play basketball",
         "schedule": "Wednesdays and Fridays, 3:30 PM - 5:00 PM",
         "category": "Sports",
         "schedule_days": [3, 5],
